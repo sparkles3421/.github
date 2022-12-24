@@ -27,7 +27,7 @@
 - type: embed
   embeds:
     - description: These rules may be amended or changed at any time.
-    - description: **TLDR** Use common sense, and you'll be fine!
+    - description: **TLDR** Use common sense, and you\'ll be fine!
 
 - type: links
   title: Useful Links
