@@ -1,10 +1,10 @@
 - type: embed
-   embeds:
-     - title: Welcome!
-       description: Welcome to the Hydrazine Project (name WIP). Our goal is to make a unique sci-fi experience inside of Minecraft.
-       color: 0x008800
-     - title: Rules
-       description: The server rules are below. Please read them over.
+  embeds:
+    - title: Welcome!
+      description: Welcome to the Hydrazine Project (name WIP). Our goal is to make a unique sci-fi experience inside of Minecraft.
+      color: 0x008800
+    - title: Rules
+      description: The server rules are below. Please read them over.
 - type: rules
   rules:
     Test Rule: >-
