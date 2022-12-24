@@ -1,1 +1,12 @@
-todo
+- type: rules
+  rules:
+    Test Rule: >-
+      This is a test rule. 
+      Can it span multiple lines?
+
+- type: links
+  title: Useful Links
+
+  links:
+    GitHub: https://github.com/HydrazineMC/
+    SMP Map: http://129.146.201.102:8080/
