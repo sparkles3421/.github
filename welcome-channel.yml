@@ -1,4 +1,5 @@
 - type: embed
+  text: pain
   embeds:
     - title: Welcome!
       description: Welcome to the Hydrazine Project (name WIP). Our goal is to make a unique sci-fi experience inside of Minecraft.
