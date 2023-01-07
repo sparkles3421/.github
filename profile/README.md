@@ -3,4 +3,4 @@ You have stumbled upon the profile for the Hydrazine Minecraft Server. This proj
 
 Contributions are welcome. We primarily use [Kotlin](https://kotlinlang.org/) and the [Paper](https://papermc.io) API (a fork of [Bukkit](https://bukkit.org/)) to implement new features.
 
-Check out the [Discord](https://discord.gg/C3x47vB2vg)! 
+Check out the [Discord](https://discord.gg/sjMY88Wwf8)! 
