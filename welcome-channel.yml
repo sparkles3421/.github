@@ -35,3 +35,10 @@
     GitHub: https://github.com/HydrazineMC
     SMP Map: http://129.146.201.102:8080
     Discord Invite: https://discord.gg/sjMY88Wwf8
+    
+- type: roles
+  id: ping-roles
+
+  roles:
+    1061475362057486392: 
+      description: Get pinged for server updates and changes!
