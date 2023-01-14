@@ -28,7 +28,7 @@
     - description: These rules may be amended or changed at any time.
     - description: TLDR - Use common sense, and you'll be fine!
     
- - type: embed
+- type: embed
   embeds:
     - title: Server IP
       description: play.stellarica.net
