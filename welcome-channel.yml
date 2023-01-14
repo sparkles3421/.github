@@ -1,7 +1,7 @@
 - type: embed
   embeds:
     - title: Welcome!
-      description: Welcome to the Hydrazine Project (name WIP). Our goal is to make a unique sci-fi experience inside of Minecraft.
+      description: Welcome to Stellarica Project. Our goal is to make a unique sci-fi experience inside of Minecraft.
       color: 0x00BB00
     - title: Rules
       description: The server rules are below. Please read them over.
@@ -27,7 +27,13 @@
   embeds:
     - description: These rules may be amended or changed at any time.
     - description: TLDR - Use common sense, and you'll be fine!
-
+    
+ - type: embed
+  embeds:
+    - title: Server IP
+      description: play.stellarica.net
+      color: 0xFF55FF
+      
 - type: links
   title: Useful Links
 
