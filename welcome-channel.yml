@@ -31,8 +31,8 @@
 - type: embed
   embeds:
     - title: Server IP
-      description: play.stellarica.net
-      color: 0xFF55FF
+        description: play.stellarica.net
+        color: 0xFF55FF
       
 - type: links
   title: Useful Links
