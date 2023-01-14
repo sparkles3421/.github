@@ -27,19 +27,13 @@
   embeds:
     - description: These rules may be amended or changed at any time.
     - description: TLDR - Use common sense, and you'll be fine!
-    
-- type: embed
-  embeds:
-    - title: Server IP
-        description: play.stellarica.net
-        color: 0xFF55FF
       
 - type: links
   title: Useful Links
 
   links:
     GitHub: https://github.com/HydrazineMC
-    SMP Map: http://129.146.201.102:8080
+    Server IP: https://play.stellarica.net
     Discord Invite: https://discord.gg/sjMY88Wwf8
     
 - type: roles
